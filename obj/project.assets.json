@@ -55,26 +55,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CodersBay\\.nuget\\packages\\": {}
+    "/home/kali/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CodersBay\\Source\\Repos\\aufgabe-7-linq-PatrikVeliki\\LinqExercise.csproj",
+      "projectUniqueName": "/home/kali/RiderProjects/aufgabe-7-linq-PatrikVeliki/LinqExercise.csproj",
       "projectName": "LinqExercise",
-      "projectPath": "C:\\Users\\CodersBay\\Source\\Repos\\aufgabe-7-linq-PatrikVeliki\\LinqExercise.csproj",
-      "packagesPath": "C:\\Users\\CodersBay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CodersBay\\Source\\Repos\\aufgabe-7-linq-PatrikVeliki\\obj\\",
+      "projectPath": "/home/kali/RiderProjects/aufgabe-7-linq-PatrikVeliki/LinqExercise.csproj",
+      "packagesPath": "/home/kali/.nuget/packages/",
+      "outputPath": "/home/kali/RiderProjects/aufgabe-7-linq-PatrikVeliki/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CodersBay\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/kali/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -114,7 +112,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }

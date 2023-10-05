@@ -29,14 +29,12 @@ public class FilmOperations
     /// <returns>ein Array von Filmen zurück, die im angegebenen Erscheinungsjahr veröffentlicht wurden.</returns>
     public Film[] GetMoviesByYear(int releaseYear)
     {
-        Film[] films = this.films.Where(film => film.ReleaseYear == releaseYear).ToArray();
-        return films;
+        return this.films.Where(film => film.ReleaseYear == releaseYear).ToArray();
     }
 
     /// <returns>ein Array von Filmen zurück, die zwischen der angegebenen Mindest- und Höchstbewertung liegen.</returns>
     public Film[] GetMoviesByRatingRange(double minRating, double maxRating)
-    { // Linq
-        // return this.films.Where(film => film.Rating >= minRating && film.Rating <= maxRating).ToArray();
+    {
         var films = from film in this.films
                     orderby film.Rating descending
                     where film.Rating >= minRating && film.Rating <= maxRating
