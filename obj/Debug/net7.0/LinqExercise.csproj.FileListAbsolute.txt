@@ -1,0 +1,17 @@
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\obj\Debug\net7.0\LinqExercise.csproj.AssemblyReference.cache
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\obj\Debug\net7.0\LinqExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\obj\Debug\net7.0\LinqExercise.AssemblyInfoInputs.cache
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\obj\Debug\net7.0\LinqExercise.AssemblyInfo.cs
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\obj\Debug\net7.0\LinqExercise.csproj.CoreCompileInputs.cache
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\bin\Debug\net7.0\LinqExercise.exe
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\bin\Debug\net7.0\LinqExercise.deps.json
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\bin\Debug\net7.0\LinqExercise.runtimeconfig.json
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\bin\Debug\net7.0\LinqExercise.dll
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\bin\Debug\net7.0\LinqExercise.pdb
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\obj\Debug\net7.0\LinqExercise.csproj.CopyComplete
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\obj\Debug\net7.0\LinqExercise.dll
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\obj\Debug\net7.0\refint\LinqExercise.dll
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\obj\Debug\net7.0\LinqExercise.pdb
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\obj\Debug\net7.0\LinqExercise.genruntimeconfig.cache
+C:\Users\CodersBay\Source\Repos\aufgabe-7-linq-PatrikVeliki\obj\Debug\net7.0\ref\LinqExercise.dll
